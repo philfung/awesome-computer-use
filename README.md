@@ -1,5 +1,6 @@
 # Awesome Computer Use
-List of papers + libraries related to computer GUI use via LLMs. Highly opinionated, focus on quality vs quantity.
+Curated list of papers + libraries related to computer GUI use via LLMs.\
+Highly opinionated, focus on quality vs quantity.
 ## Projects/Papers
 * [ECLAIR: Enterprise sCaLe AI for woRkflows](https://hazyresearch.stanford.edu/blog/2024-05-18-eclair) *A. Naryan* (*Stanford U.*) (05/24)
 * [OmniParser for Pure Vision Based GUI Agent](https://microsoft.github.io/OmniParser/) *Y. Lu* (*Microsoft*) (08/24)
