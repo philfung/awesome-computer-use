@@ -14,4 +14,4 @@ Highly opinionated, focus on quality vs quantity.
 * [SeeAct: GPT-4V(ision) is a Generalist Web Agent, if Grounded](https://osu-nlp-group.github.io/SeeAct/) ([code](https://github.com/OSU-NLP-Group/SeeAct)) (*OSU*) (01/24)
 * [CogAgent: A Visual Language Model for GUI Agents](https://github.com/THUDM/CogVLM2) (*ZhiPu*)(12/23)
 * [AppAgent: Multimodal Agents as Smartphone Users](https://appagent-official.github.io/) ([code](https://github.com/mnotgod96/AppAgent)) (*TenCent*) (12/23)
-* [SoM : Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V](https://som-gpt4v.github.io/)([code](https://github.com/microsoft/SoM)) (*Microsoft*) (10/23)
+* [SoM : Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V](https://som-gpt4v.github.io/) ([code](https://github.com/microsoft/SoM)) (*Microsoft*) (10/23)
