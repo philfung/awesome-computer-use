@@ -1,6 +1,10 @@
-# Awesome Computer Use
+# <img src="https://github.com/user-attachments/assets/d167261f-b73f-42af-bddf-0ec2ed1b21d9" height="150"/> Awesome Computer Use 
+*Updated 11/04/24*
+
 Curated list of papers + libraries related to computer GUI use via LLMs.\
 Highly opinionated, focus on quality vs quantity.
+
+
 ## Papers
 * [Anthropic Claude Computer Use API](https://docs.anthropic.com/en/docs/build-with-claude/computer-use) (*Anthropic*) (10/24)
 * [OmniParser for Pure Vision Based GUI Agent](https://microsoft.github.io/OmniParser/) ([code](https://github.com/microsoft/OmniParser)) (*Microsoft*) (08/24)
