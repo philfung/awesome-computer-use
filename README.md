@@ -2,6 +2,7 @@
 Curated list of papers + libraries related to computer GUI use via LLMs.\
 Highly opinionated, focus on quality vs quantity.
 ## Papers w/Code
+* [Anthropic Claude Computer Use API](https://docs.anthropic.com/en/docs/build-with-claude/computer-use) (*Anthropic*) (10/24)
 * [OmniParser for Pure Vision Based GUI Agent](https://microsoft.github.io/OmniParser/) ([code](https://github.com/microsoft/OmniParser)) (*Microsoft*) (08/24)
 * [ECLAIR: Enterprise sCaLe AI for woRkflows](https://hazyresearch.stanford.edu/blog/2024-05-18-eclair)([code](https://github.com/HazyResearch/eclair-agents)) (*Stanford*) (05/24)
 * [OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments](https://os-world.github.io/) ([code](https://github.com/xlang-ai/OSWorld)) (*HKU*) (05/24)
