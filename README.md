@@ -6,7 +6,7 @@ Highly opinionated, focus on quality vs quantity.
 
 
 ## Papers
-* [WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning](https://arxiv.org/html/2411.02337v1) (*Tsinghua) (11/24)
+* [WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning](https://arxiv.org/html/2411.02337v1) (*Tsinghua U*) (11/24)
 * [Anthropic Claude Computer Use API](https://docs.anthropic.com/en/docs/build-with-claude/computer-use) (*Anthropic*) (10/24)
 * [OmniParser for Pure Vision Based GUI Agent](https://microsoft.github.io/OmniParser/) ([code](https://github.com/microsoft/OmniParser)) (*Microsoft*) (08/24)
 * [ECLAIR: Enterprise sCaLe AI for woRkflows](https://hazyresearch.stanford.edu/blog/2024-05-18-eclair)([code](https://github.com/HazyResearch/eclair-agents)) (*Stanford*) (05/24)
