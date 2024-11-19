@@ -1,6 +1,4 @@
 # <img src="https://github.com/user-attachments/assets/d167261f-b73f-42af-bddf-0ec2ed1b21d9" height="150"/> Awesome Computer Use 
-*Updated 11/04/24*
-
 Curated list of papers + libraries related to computer GUI use via LLMs.\
 Highly opinionated, focus on quality vs quantity.
 
@@ -16,3 +14,6 @@ Highly opinionated, focus on quality vs quantity.
 * [CogAgent: A Visual Language Model for GUI Agents](https://github.com/THUDM/CogVLM2) (*ZhiPu*)(12/23)
 * [AppAgent: Multimodal Agents as Smartphone Users](https://appagent-official.github.io/) ([code](https://github.com/mnotgod96/AppAgent)) (*TenCent*) (12/23)
 * [SoM : Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V](https://som-gpt4v.github.io/) ([code](https://github.com/microsoft/SoM)) (*Microsoft*) (10/23)
+
+## Resources
+* Try [computer use on your Mac](https://github.com/philfung/computer-use) in one click.
