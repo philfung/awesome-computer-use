@@ -2,7 +2,9 @@
 Curated list of papers + libraries related to computer GUI use via LLMs.\
 Highly opinionated, focus on quality vs quantity.
 
-
+## Resources
+* Try [computer use on your Mac](https://github.com/philfung/computer-use) in one click.
+* 
 ## Papers
 * [WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning](https://arxiv.org/html/2411.02337v1) (*Tsinghua U*) (11/24)
 * [Anthropic Claude Computer Use API](https://docs.anthropic.com/en/docs/build-with-claude/computer-use) (*Anthropic*) (10/24)
@@ -15,5 +17,4 @@ Highly opinionated, focus on quality vs quantity.
 * [AppAgent: Multimodal Agents as Smartphone Users](https://appagent-official.github.io/) ([code](https://github.com/mnotgod96/AppAgent)) (*TenCent*) (12/23)
 * [SoM : Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V](https://som-gpt4v.github.io/) ([code](https://github.com/microsoft/SoM)) (*Microsoft*) (10/23)
 
-## Resources
-* Try [computer use on your Mac](https://github.com/philfung/computer-use) in one click.
+
