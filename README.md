@@ -4,6 +4,8 @@ Highly opinionated, focus on quality vs quantity.
 
 ## Demos
 * Try [computer use on your Mac](https://github.com/philfung/computer-use) in one click.
+
+## Frameworks
 * [Openwork](https://github.com/accomplish-ai/openwork) - MIT-licensed, open alternative to Anthropic's Cowork with multi-LLM support for browser automation.
   
 ## Papers
@@ -20,3 +22,5 @@ Highly opinionated, focus on quality vs quantity.
 
 # Talks
 * [LLMs as Computer Users: An Overview](https://www.figma.com/deck/rsWK4sRl0dOahG59bfMhql)
+
+
