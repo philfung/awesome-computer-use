@@ -17,4 +17,5 @@ Highly opinionated, focus on quality vs quantity.
 * [AppAgent: Multimodal Agents as Smartphone Users](https://appagent-official.github.io/) ([code](https://github.com/mnotgod96/AppAgent)) (*TenCent*) (12/23)
 * [SoM : Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V](https://som-gpt4v.github.io/) ([code](https://github.com/microsoft/SoM)) (*Microsoft*) (10/23)
 
-
+# Talks
+* [LLMs as Computer Users: An Overview](https://www.figma.com/deck/rsWK4sRl0dOahG59bfMhql)
