@@ -6,6 +6,7 @@ Highly opinionated, focus on quality vs quantity.
 * Try [computer use on your Mac](https://github.com/philfung/computer-use) in one click.
 
 ## Frameworks
+* [Fazm](https://github.com/m13v/fazm) - MIT-licensed, open-source voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit.
 * [Openwork](https://github.com/accomplish-ai/openwork) - MIT-licensed, open alternative to Anthropic's Cowork with multi-LLM support for browser automation.
   
 ## Papers
