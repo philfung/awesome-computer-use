@@ -2,13 +2,25 @@
 Curated list of papers + libraries related to computer GUI use via LLMs.\
 Highly opinionated, focus on quality vs quantity.
 
+## Projects
+
+- [wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa) - WeChat automation via multimodal AI vision. No protocol hacking, operates through UI. Features memory system, digital twin, smart home skills.
+
 ## Demos
 * Try [computer use on your Mac](https://github.com/philfung/computer-use) in one click.
+
+## Projects
+
+- [wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa) - WeChat automation via multimodal AI vision. No protocol hacking, operates through UI. Features memory system, digital twin, smart home skills.
 
 ## Frameworks
 * [Fazm](https://github.com/m13v/fazm) - MIT-licensed, open-source voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit.
 * [Openwork](https://github.com/accomplish-ai/openwork) - MIT-licensed, open alternative to Anthropic's Cowork with multi-LLM support for browser automation.
   
+## Projects
+
+- [wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa) - WeChat automation via multimodal AI vision. No protocol hacking, operates through UI. Features memory system, digital twin, smart home skills.
+
 ## Papers
 * [WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning](https://arxiv.org/html/2411.02337v1) (*Tsinghua U*) (11/24)
 * [Anthropic Claude Computer Use API](https://docs.anthropic.com/en/docs/build-with-claude/computer-use) (*Anthropic*) (10/24)
