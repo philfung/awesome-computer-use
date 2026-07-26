@@ -10,6 +10,7 @@ Highly opinionated, focus on quality vs quantity.
 * [Openwork](https://github.com/accomplish-ai/openwork) - MIT-licensed, open alternative to Anthropic's Cowork with multi-LLM support for browser automation.
   
 ## Papers
+* [ClawBench: Can AI Agents Complete Everyday Online Tasks?](https://arxiv.org/abs/2604.08523) ([code](https://github.com/reacher-z/ClawBench)) ([project](https://claw-bench.com/)) (*UBC, Vector Institute, UWaterloo*) (04/26)
 * [WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning](https://arxiv.org/html/2411.02337v1) (*Tsinghua U*) (11/24)
 * [Anthropic Claude Computer Use API](https://docs.anthropic.com/en/docs/build-with-claude/computer-use) (*Anthropic*) (10/24)
 * [OmniParser for Pure Vision Based GUI Agent](https://microsoft.github.io/OmniParser/) ([code](https://github.com/microsoft/OmniParser)) (*Microsoft*) (08/24)
