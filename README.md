@@ -3,6 +3,8 @@ Curated list of papers + libraries related to computer GUI use via LLMs.\
 Highly opinionated, focus on quality vs quantity.
 
 ## Demos
+
+- [Clickyy](https://github.com/jayamitkatariya/clickyyy) - Shake your cursor to summon an AI agent that sees your screen and clicks, types, drags, and acts for you on macOS.
 * Try [computer use on your Mac](https://github.com/philfung/computer-use) in one click.
 
 ## Frameworks
