@@ -6,6 +6,7 @@ Highly opinionated, focus on quality vs quantity.
 * Try [computer use on your Mac](https://github.com/philfung/computer-use) in one click.
 
 ## Frameworks
+* [Agent QA](https://github.com/vostride/agent-qa) - Source-available FSL-1.1-ALv2 agent for authoring and running natural-language regression tests across web, Android, and iOS user interfaces; each release converts to Apache-2.0 after two years.
 * [Fazm](https://github.com/m13v/fazm) - MIT-licensed, open-source voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit.
 * [Openwork](https://github.com/accomplish-ai/openwork) - MIT-licensed, open alternative to Anthropic's Cowork with multi-LLM support for browser automation.
   
@@ -24,5 +25,4 @@ Highly opinionated, focus on quality vs quantity.
 
 # Talks
 * [LLMs as Computer Users: An Overview](https://www.figma.com/deck/rsWK4sRl0dOahG59bfMhql)
-
 
