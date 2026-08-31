@@ -2,10 +2,18 @@
 Curated list of papers + libraries related to computer GUI use via LLMs.\
 Highly opinionated, focus on quality vs quantity.
 
+## Projects
+
+- [wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa) - WeChat automation via multimodal AI vision. No protocol hacking, operates through UI. Features memory system, digital twin, smart home skills.
+
 ## Demos
 
 - [Clickyy](https://github.com/jayamitkatariya/clickyyy) - Shake your cursor to summon an AI agent that sees your screen and clicks, types, drags, and acts for you on macOS.
 * Try [computer use on your Mac](https://github.com/philfung/computer-use) in one click.
+
+## Projects
+
+- [wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa) - WeChat automation via multimodal AI vision. No protocol hacking, operates through UI. Features memory system, digital twin, smart home skills.
 
 ## Frameworks
 * [Agent QA](https://github.com/vostride/agent-qa) - Source-available FSL-1.1-ALv2 agent for authoring and running natural-language regression tests across web, Android, and iOS user interfaces; each release converts to Apache-2.0 after two years.
@@ -13,6 +21,10 @@ Highly opinionated, focus on quality vs quantity.
 * [Openwork](https://github.com/accomplish-ai/openwork) - MIT-licensed, open alternative to Anthropic's Cowork with multi-LLM support for browser automation.
 * [optics-framework](https://github.com/mozarkai/optics-framework) - Apache-2.0 framework for LLM-driven GUI automation of mobile, web and Smart TV apps: a natural-language ReAct mode operates live apps through screenshot → LLM → validated action loops, and an MCP server exposes tap/swipe/verify keywords so any AI agent can drive real devices.
   
+## Projects
+
+- [wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa) - WeChat automation via multimodal AI vision. No protocol hacking, operates through UI. Features memory system, digital twin, smart home skills.
+
 ## Papers
 * [ClawBench: Can AI Agents Complete Everyday Online Tasks?](https://arxiv.org/abs/2604.08523) ([code](https://github.com/reacher-z/ClawBench)) ([project](https://claw-bench.com/)) (*UBC, Vector Institute, UWaterloo*) (04/26)
 * [WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning](https://arxiv.org/html/2411.02337v1) (*Tsinghua U*) (11/24)
