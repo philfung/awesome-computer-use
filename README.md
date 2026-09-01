@@ -9,6 +9,7 @@ Highly opinionated, focus on quality vs quantity.
 
 ## Frameworks
 * [Agent QA](https://github.com/vostride/agent-qa) - Source-available FSL-1.1-ALv2 agent for authoring and running natural-language regression tests across web, Android, and iOS user interfaces; each release converts to Apache-2.0 after two years.
+* [deskwright](https://github.com/tristanmuzzu/deskwright) - Apache-2.0 MCP server for computer use on a real GNOME/Wayland Linux desktop: presses widgets through their AT-SPI accessibility actions instead of pixel coordinates, and can run on a headless GNOME session on a virtual monitor so it never takes the user's screen.
 * [Fazm](https://github.com/m13v/fazm) - MIT-licensed, open-source voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit.
 * [Openwork](https://github.com/accomplish-ai/openwork) - MIT-licensed, open alternative to Anthropic's Cowork with multi-LLM support for browser automation.
 * [optics-framework](https://github.com/mozarkai/optics-framework) - Apache-2.0 framework for LLM-driven GUI automation of mobile, web and Smart TV apps: a natural-language ReAct mode operates live apps through screenshot → LLM → validated action loops, and an MCP server exposes tap/swipe/verify keywords so any AI agent can drive real devices.
