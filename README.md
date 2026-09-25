@@ -12,6 +12,7 @@ Highly opinionated, focus on quality vs quantity.
 * [Fazm](https://github.com/m13v/fazm) - MIT-licensed, open-source voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit.
 * [Openwork](https://github.com/accomplish-ai/openwork) - MIT-licensed, open alternative to Anthropic's Cowork with multi-LLM support for browser automation.
 * [optics-framework](https://github.com/mozarkai/optics-framework) - Apache-2.0 framework for LLM-driven GUI automation of mobile, web and Smart TV apps: a natural-language ReAct mode operates live apps through screenshot → LLM → validated action loops, and an MCP server exposes tap/swipe/verify keywords so any AI agent can drive real devices.
+* [Thursday](https://github.com/cgoinglove/thursday) - MIT-licensed, open-source voice assistant for macOS: a live call on GPT-Live hands work to background agents that drive a real browser and a shell while the conversation continues.
   
 ## Papers
 * [ClawBench: Can AI Agents Complete Everyday Online Tasks?](https://arxiv.org/abs/2604.08523) ([code](https://github.com/reacher-z/ClawBench)) ([project](https://claw-bench.com/)) (*UBC, Vector Institute, UWaterloo*) (04/26)
