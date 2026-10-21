@@ -8,6 +8,7 @@ Highly opinionated, focus on quality vs quantity.
 * Try [computer use on your Mac](https://github.com/philfung/computer-use) in one click.
 
 ## Frameworks
+* [ibara](https://github.com/MayberryDT/ibara) - MCP server that lets agents use the desktops, browsers and apps on Omarchy computers you own, connected over your Tailscale network.
 * [Agent QA](https://github.com/vostride/agent-qa) - Self-improving QA agent for natural-language web and mobile regression tests, with execution memory and UI-change adaptation.
 * [Fazm](https://github.com/m13v/fazm) - MIT-licensed, open-source voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit.
 * [Openwork](https://github.com/accomplish-ai/openwork) - MIT-licensed, open alternative to Anthropic's Cowork with multi-LLM support for browser automation.
