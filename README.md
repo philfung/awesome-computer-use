@@ -8,6 +8,7 @@ Highly opinionated, focus on quality vs quantity.
 * Try [computer use on your Mac](https://github.com/philfung/computer-use) in one click.
 
 ## Frameworks
+* [ibara](https://github.com/MayberryDT/ibara) - MCP server that lets agents use the desktops, browsers and apps on Omarchy computers you own, connected over your Tailscale network.
 * [Agent QA](https://github.com/vostride/agent-qa) - Self-improving QA agent for natural-language web and mobile regression tests, with execution memory and UI-change adaptation.
 * [ESP32 iPhone Agent](https://github.com/onehumanbeing/esp32-iphone-agent) - MIT-licensed agent that lets any OpenAI-compatible vision model use a real iPhone: it sees the screen through AirPlay mirroring and taps, swipes and types through an ESP32-S3 plugged in as a USB mouse and keyboard, with no Mac, developer account or jailbreak.
 * [Fazm](https://github.com/m13v/fazm) - MIT-licensed, open-source voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit.
