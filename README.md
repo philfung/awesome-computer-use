@@ -9,11 +9,14 @@ Highly opinionated, focus on quality vs quantity.
 
 ## Frameworks
 * [Agent QA](https://github.com/vostride/agent-qa) - Self-improving QA agent for natural-language web and mobile regression tests, with execution memory and UI-change adaptation.
+* [ESP32 iPhone Agent](https://github.com/onehumanbeing/esp32-iphone-agent) - MIT-licensed agent that lets any OpenAI-compatible vision model use a real iPhone: it sees the screen through AirPlay mirroring and taps, swipes and types through an ESP32-S3 plugged in as a USB mouse and keyboard, with no Mac, developer account or jailbreak.
 * [Fazm](https://github.com/m13v/fazm) - MIT-licensed, open-source voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit.
 * [Openwork](https://github.com/accomplish-ai/openwork) - MIT-licensed, open alternative to Anthropic's Cowork with multi-LLM support for browser automation.
 * [optics-framework](https://github.com/mozarkai/optics-framework) - Apache-2.0 framework for LLM-driven GUI automation of mobile, web and Smart TV apps: a natural-language ReAct mode operates live apps through screenshot → LLM → validated action loops, and an MCP server exposes tap/swipe/verify keywords so any AI agent can drive real devices.
+* [POK-Agent](https://github.com/Acekorneya/POK-Agent) - Apache-2.0 Windows computer-use agent where an LLM plans and a fast System 1 decision model acts on UI Automation and OCR targets, replaying recorded action programs for repeated tasks.
+* [TODO for AI](https://github.com/todoforai/edge) - MIT-licensed agent runtime that runs on your own machine and drives your real logged-in browser (via extension), shell and files, with any model (Claude, GPT, Gemini, Grok, Ollama).
 * [Thursday](https://github.com/cgoinglove/thursday) - MIT-licensed, open-source voice assistant for macOS: a live call on GPT-Live hands work to background agents that drive a real browser and a shell while the conversation continues.
-  
+
 ## Papers
 * [ClawBench: Can AI Agents Complete Everyday Online Tasks?](https://arxiv.org/abs/2604.08523) ([code](https://github.com/reacher-z/ClawBench)) ([project](https://claw-bench.com/)) (*UBC, Vector Institute, UWaterloo*) (04/26)
 * [WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning](https://arxiv.org/html/2411.02337v1) (*Tsinghua U*) (11/24)
