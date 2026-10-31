@@ -8,7 +8,9 @@ Highly opinionated, focus on quality vs quantity.
 * Try [computer use on your Mac](https://github.com/philfung/computer-use) in one click.
 
 ## Frameworks
+
 * [Agent QA](https://github.com/vostride/agent-qa) - Self-improving QA agent for natural-language web and mobile regression tests, with execution memory and UI-change adaptation.
+* [deskwright](https://github.com/tristanmuzzu/deskwright) - Apache-2.0 MCP server for computer use on a real GNOME/Wayland Linux desktop: presses widgets through their AT-SPI accessibility actions instead of pixel coordinates, and can run on a headless GNOME session on a virtual monitor so it never takes the user's screen.
 * [ESP32 iPhone Agent](https://github.com/onehumanbeing/esp32-iphone-agent) - MIT-licensed agent that lets any OpenAI-compatible vision model use a real iPhone: it sees the screen through AirPlay mirroring and taps, swipes and types through an ESP32-S3 plugged in as a USB mouse and keyboard, with no Mac, developer account or jailbreak.
 * [Fazm](https://github.com/m13v/fazm) - MIT-licensed, open-source voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit.
 * [Openwork](https://github.com/accomplish-ai/openwork) - MIT-licensed, open alternative to Anthropic's Cowork with multi-LLM support for browser automation.
