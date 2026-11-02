@@ -7,6 +7,7 @@ Highly opinionated, focus on quality vs quantity.
 - [Clickyy](https://github.com/jayamitkatariya/clickyyy) - Shake your cursor to summon an AI agent that sees your screen and clicks, types, drags, and acts for you on macOS.
 * Try [computer use on your Mac](https://github.com/philfung/computer-use) in one click.
 
+
 ## Frameworks
 
 * [Agent QA](https://github.com/vostride/agent-qa) - Self-improving QA agent for natural-language web and mobile regression tests, with execution memory and UI-change adaptation.
@@ -19,6 +20,7 @@ Highly opinionated, focus on quality vs quantity.
 * [POK-Agent](https://github.com/Acekorneya/POK-Agent) - Apache-2.0 Windows computer-use agent where an LLM plans and a fast System 1 decision model acts on UI Automation and OCR targets, replaying recorded action programs for repeated tasks.
 * [TODO for AI](https://github.com/todoforai/edge) - MIT-licensed agent runtime that runs on your own machine and drives your real logged-in browser (via extension), shell and files, with any model (Claude, GPT, Gemini, Grok, Ollama).
 * [Thursday](https://github.com/cgoinglove/thursday) - MIT-licensed, open-source voice assistant for macOS: a live call on GPT-Live hands work to background agents that drive a real browser and a shell while the conversation continues.
+* [wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa) - WeChat automation via multimodal AI vision. No protocol hacking, operates through UI. Features memory system, digital twin, smart home skills.
 
 ## Papers
 * [ClawBench: Can AI Agents Complete Everyday Online Tasks?](https://arxiv.org/abs/2604.08523) ([code](https://github.com/reacher-z/ClawBench)) ([project](https://claw-bench.com/)) (*UBC, Vector Institute, UWaterloo*) (04/26)
