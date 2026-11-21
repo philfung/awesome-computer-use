@@ -12,6 +12,7 @@ Highly opinionated, focus on quality vs quantity.
 
 * [Agent QA](https://github.com/vostride/agent-qa) - Self-improving QA agent for natural-language web and mobile regression tests, with execution memory and UI-change adaptation.
 * [deskwright](https://github.com/tristanmuzzu/deskwright) - Apache-2.0 MCP server for computer use on a real GNOME/Wayland Linux desktop: presses widgets through their AT-SPI accessibility actions instead of pixel coordinates, and can run on a headless GNOME session on a virtual monitor so it never takes the user's screen.
+* [easi.run](https://github.com/julianosig/easi.run) - AGPL-3.0-only self-hosted Chrome for AI agents via MCP/REST, with live viewing, encrypted profiles and human takeover for logins, 2FA and approvals.
 * [ESP32 iPhone Agent](https://github.com/onehumanbeing/esp32-iphone-agent) - MIT-licensed agent that lets any OpenAI-compatible vision model use a real iPhone: it sees the screen through AirPlay mirroring and taps, swipes and types through an ESP32-S3 plugged in as a USB mouse and keyboard, with no Mac, developer account or jailbreak.
 * [Fazm](https://github.com/m13v/fazm) - MIT-licensed, open-source voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit.
 * [ibara](https://github.com/MayberryDT/ibara) - MCP server that lets agents use the desktops, browsers and apps on Omarchy computers you own, connected over your Tailscale network.
